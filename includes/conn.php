@@ -4,8 +4,8 @@ class Database
 {
 
 	private $server = "54.165.107.150";
-	private $username = "root";
-	private $password = "123@123a";
+	private $username = "hieuhdbhaf200117@fpt.edu.vn";
+	private $password = "Hoanghieu11!";
 	private $options  = array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,);
 	protected $conn;
 
