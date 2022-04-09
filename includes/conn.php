@@ -6,7 +6,7 @@ class Database
 	private $server = "18.206.225.206";
 	private $username = "hieuhd";
 	private $password = "123@123a";
-	// private $database = 'ecomm';
+	private $database = 'ecomm';
 	private $options  = array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,);
 	protected $conn;
 
