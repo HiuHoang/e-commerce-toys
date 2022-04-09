@@ -3,7 +3,7 @@
 class Database
 {
 
-	private $server = "18.206.225.20";
+	private $server = "18.206.225.206";
 	private $username = "hieuhd";
 	private $password = "123@123a";
 	// private $database = 'ecomm';
