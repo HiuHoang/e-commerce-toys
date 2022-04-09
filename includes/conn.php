@@ -3,11 +3,10 @@
 class Database
 {
 
-	public $server = "18.206.225.206";
-	public $username = "hieuhd";
-	public $password = "123@123a";
-	public $database = 'ecomm';
-	public $options  = array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,);
+	private $server = "localhost";
+	private $username = "root";
+	private $password = "";
+	private $options  = array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,);
 	protected $conn;
 
 	public function open()

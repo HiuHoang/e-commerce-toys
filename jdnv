@@ -1,0 +1,113 @@
+[33mcommit c54ab0afb251b024c6671e42daabb6ebb780e00a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:40:01 2022 +0700
+
+    add database name
+
+[33mcommit 111a15afc325600cfe675bf3e42101db1b3afcb1[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:30:43 2022 +0700
+
+    add database name
+
+[33mcommit 689e7b0b4b7c005ba401f8e2a6c3ff5b48e6b2a6[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:27:52 2022 +0700
+
+    add database name
+
+[33mcommit 033b3c45469d8bf1a6768bd0d66543c372b3c99d[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:23:45 2022 +0700
+
+    add database name
+
+[33mcommit 28981cf71e9d99cb146071f15eb6e86a53ae2b87[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:21:35 2022 +0700
+
+    add database name
+
+[33mcommit ed2a66be75f7c31f5c29290ee620f83cc4495ea9[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:11:31 2022 +0700
+
+    fix username
+
+[33mcommit 8ddb4b0de7ae3d02ec84d0b8b900ee39440c15aa[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:09:26 2022 +0700
+
+    fix incorrect server
+
+[33mcommit 5d51332879fea9078b41fb34ba471f5fbdd1c590[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:03:29 2022 +0700
+
+    fix username
+
+[33mcommit 3a933665dd9140342b59077c0838361572d6d2e5[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Sat Apr 9 10:00:51 2022 +0700
+
+    add server
+
+[33mcommit fdf33a2ce233ae357ca48e94806e006dad01aef0[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 13:44:39 2022 +0700
+
+    initial project
+
+[33mcommit a79d35f9fe3cb2aad60c5aeb0154899dc44b52aa[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 13:30:37 2022 +0700
+
+    fix
+
+[33mcommit 2fb4f4a466f07375a6851c5d5731bbefdfca2048[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 13:29:35 2022 +0700
+
+    fix
+
+[33mcommit b6be2ff93d57be7085fed2a7180d4ec126ee7a2b[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 13:05:17 2022 +0700
+
+    fix conn.php
+
+[33mcommit de1a5550c827d6cb31ac916e1b9311377d71fd07[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 13:02:09 2022 +0700
+
+    fix conn.php
+
+[33mcommit 783f3bc3d9bd455f424050e30eda99cad90a27a3[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 12:54:40 2022 +0700
+
+    fix conn.php
+
+[33mcommit c98f297a5312ede7468b3cd8fc01a15e08269ffd[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 12:21:34 2022 +0700
+
+    fix conn.php
+
+[33mcommit 3e0cd19a49b420bd4e54885a06d527bf2625c9a7[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 12:19:45 2022 +0700
+
+    fix conn.php
+
+[33mcommit ea16dd4ba1ece8c6335a9d05184d51722b256d6f[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 12:15:38 2022 +0700
+
+    add connect file
+
+[33mcommit 09c9c5254fed3e970469f018efdca60557259f1c[m
+Author: Hiu Hoang <89955228+HiuHoang@users.noreply.github.com>
+Date:   Wed Mar 30 11:09:53 2022 +0700
+
+    initial project
